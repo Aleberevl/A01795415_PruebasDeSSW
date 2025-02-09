@@ -1,0 +1,6 @@
+Ventas Totales: $169478.22
+Tiempo de Ejecución: 0.00 segundos
+
+Errores:
+- Error: Cantidad no puede ser negativa en venta:{'SALE_ID': 8, 'SALE_Date': '02/12/23', 'Product': 'Fresh blueberries', 'Quantity': -35}
+- Error: Cantidad no puede ser negativa en venta:{'SALE_ID': 10, 'SALE_Date': '02/12/23', 'Product': 'Green smoothie', 'Quantity': -123}

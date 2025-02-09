@@ -1,0 +1,8 @@
+Ventas Totales: $168145.36
+Tiempo de Ejecución: 0.00 segundos
+
+Errores:
+- Error: El producto 'Elotes' no se encuentra en el catálogo.
+- Error: La cantidad no puede ser negativa en ventas: {'SALE_ID': 8, 'SALE_Date': '02/12/23', 'Product': 'Fresh blueberries', 'Quantity': -35}
+- Error: El producto 'Frijoles' no se encuentra en el catálogo.
+- Error: La cantidad no puede ser negativa en ventas: {'SALE_ID': 10, 'SALE_Date': '02/12/23', 'Product': 'Green smoothie', 'Quantity': -123}

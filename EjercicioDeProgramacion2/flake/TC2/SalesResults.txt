@@ -1,0 +1,50 @@
+Total Sales: $0.00
+Execution Time: 0.00 seconds
+
+Errors:
+- Error: Product 'Rustic breakfast' not found in price catalogue.
+- Error: Product 'Sandwich with salad' not found in price catalogue.
+- Error: Product 'Raw legums' not found in price catalogue.
+- Error: Product 'Fresh stawberry' not found in price catalogue.
+- Error: Product 'Raw legums' not found in price catalogue.
+- Error: Product 'Green smoothie' not found in price catalogue.
+- Error: Product 'Cuban sandwiche' not found in price catalogue.
+- Error: Product 'Hazelnut in black ceramic bowl' not found in price catalogue.
+- Error: Product 'Tomatoes' not found in price catalogue.
+- Error: Product 'Plums' not found in price catalogue.
+- Error: Product 'Fresh blueberries' not found in price catalogue.
+- Error: Product 'Green smoothie' not found in price catalogue.
+- Error: Product 'Corn' not found in price catalogue.
+- Error: Product 'French fries' not found in price catalogue.
+- Error: Product 'Ground beef meat burger' not found in price catalogue.
+- Error: Product 'Hazelnut in black ceramic bowl' not found in price catalogue.
+- Error: Product 'Sweet fresh stawberry' not found in price catalogue.
+- Error: Product 'Homemade bread' not found in price catalogue.
+- Error: Product 'Smoothie with chia seeds' not found in price catalogue.
+- Error: Product 'Corn' not found in price catalogue.
+- Error: Product 'Plums' not found in price catalogue.
+- Error: Product 'Fresh blueberries' not found in price catalogue.
+- Error: Product 'Green smoothie' not found in price catalogue.
+- Error: Product 'Corn' not found in price catalogue.
+- Error: Product 'French fries' not found in price catalogue.
+- Error: Product 'Ground beef meat burger' not found in price catalogue.
+- Error: Product 'Hazelnut in black ceramic bowl' not found in price catalogue.
+- Error: Product 'Sweet fresh stawberry' not found in price catalogue.
+- Error: Product 'Homemade bread' not found in price catalogue.
+- Error: Product 'Smoothie with chia seeds' not found in price catalogue.
+- Error: Product 'Corn' not found in price catalogue.
+- Error: Product 'Plums' not found in price catalogue.
+- Error: Product 'Fresh blueberries' not found in price catalogue.
+- Error: Product 'Green smoothie' not found in price catalogue.
+- Error: Product 'Corn' not found in price catalogue.
+- Error: Product 'French fries' not found in price catalogue.
+- Error: Product 'Ground beef meat burger' not found in price catalogue.
+- Error: Product 'Hazelnut in black ceramic bowl' not found in price catalogue.
+- Error: Product 'Sweet fresh stawberry' not found in price catalogue.
+- Error: Product 'Homemade bread' not found in price catalogue.
+- Error: Product 'Smoothie with chia seeds' not found in price catalogue.
+- Error: Product 'Corn' not found in price catalogue.
+- Error: Product 'Plums' not found in price catalogue.
+- Error: Product 'Fresh blueberries' not found in price catalogue.
+- Error: Product 'Green smoothie' not found in price catalogue.
+- Error: Product 'Corn' not found in price catalogue.
