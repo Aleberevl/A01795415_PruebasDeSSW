@@ -1,0 +1,14 @@
+{
+    "1": {
+        "customer_id": 1,
+        "nombre": "Berenice Vega",
+        "telefono": "3531358765",
+        "email": "alebere993@gmail.com"
+    },
+    "2": {
+        "customer_id": 2,
+        "nombre": "Bratriz Cortez",
+        "telefono": "3531368790",
+        "email": "betty@gmail.com"
+    }
+}

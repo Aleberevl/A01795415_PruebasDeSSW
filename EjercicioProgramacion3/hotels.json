@@ -1,0 +1,23 @@
+{
+    "1": {
+        "hotel_id": 1,
+        "nombre": "ValParaiso",
+        "ubicacion": "Pto Vallarta",
+        "num_habitaciones": 100,
+        "precio_por_noche": 1500.0
+    },
+    "2": {
+        "hotel_id": 2,
+        "nombre": "Villas del Mar",
+        "ubicacion": "Manzanillo",
+        "num_habitaciones": 500,
+        "precio_por_noche": 875.0
+    },
+    "3": {
+        "hotel_id": 3,
+        "nombre": "Las Palmas",
+        "ubicacion": "Guayabitos",
+        "num_habitaciones": 30,
+        "precio_por_noche": 1350.0
+    }
+}

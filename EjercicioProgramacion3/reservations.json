@@ -1,0 +1,9 @@
+{
+    "1": {
+        "reservation_id": 1,
+        "customer_id": 1,
+        "hotel_id": 2,
+        "fecha_check_in": "2025-05-10",
+        "noches_reserva": 8
+    }
+}
